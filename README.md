@@ -3,8 +3,9 @@ Node.js &amp; Mysql Application
 
 ## Getting Started
 
-*Clone Bamazon to your desktop: https://github.com/dcgutierrez93/Bamazon.git
-*NPM is required.
+* Clone Bamazon to your desktop: https://github.com/dcgutierrez93/Bamazon.git
+<br>
+* NPM is required.
 
 ### Installing
 
